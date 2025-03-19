@@ -34,7 +34,7 @@ do
 {
     if ((turn % 2) == 1)
     {
-        Console.WriteLine("Player 1 turn");
+        Console.WriteLine("Player 1 (X) turn");
         input = Console.ReadLine();
         
         switch (input)
@@ -70,7 +70,7 @@ do
     }
     else if ((turn % 2) == 0)
     {
-        Console.WriteLine("Player 2 turn");
+        Console.WriteLine("Player 2 (0) turn");
         input = Console.ReadLine();
         
         switch (input)
@@ -164,12 +164,16 @@ do
     }
     
     turn++;
-    Console.WriteLine($"Number of a turn: {turn}");
 
-    if (turn == 8)
+    if (turn == 10)
     {
         gameover = true;
         Console.WriteLine("It's a draw.");
+    }
+
+    if (gameover == false)
+    {
+        Console.Clear();
     }
     
     for (int i = 0; i < 3; i++)
