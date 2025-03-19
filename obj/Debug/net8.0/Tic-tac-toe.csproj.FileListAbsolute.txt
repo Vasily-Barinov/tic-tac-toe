@@ -1,0 +1,14 @@
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\bin\Debug\net8.0\Tic-tac-toe.exe
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\bin\Debug\net8.0\Tic-tac-toe.deps.json
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\bin\Debug\net8.0\Tic-tac-toe.runtimeconfig.json
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\bin\Debug\net8.0\Tic-tac-toe.dll
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\bin\Debug\net8.0\Tic-tac-toe.pdb
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\obj\Debug\net8.0\Tic-tac-toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\obj\Debug\net8.0\Tic-tac-toe.AssemblyInfoInputs.cache
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\obj\Debug\net8.0\Tic-tac-toe.AssemblyInfo.cs
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\obj\Debug\net8.0\Tic-tac-toe.csproj.CoreCompileInputs.cache
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\obj\Debug\net8.0\Tic-tac-toe.dll
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\obj\Debug\net8.0\refint\Tic-tac-toe.dll
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\obj\Debug\net8.0\Tic-tac-toe.pdb
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\obj\Debug\net8.0\Tic-tac-toe.genruntimeconfig.cache
+D:\Secondary\AppData\Local\Rider_repo\Tic-tac-toe\obj\Debug\net8.0\ref\Tic-tac-toe.dll
